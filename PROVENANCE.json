@@ -1,0 +1,15 @@
+{
+  "upstream": "c1cad4/CybOS-demo",
+  "base_commit": "dddcd76d76bf1f8d26b07e3a761908bc1ea7966b",
+  "note": "Includes locally verified fixes authorized during cloud setup. Files now maintained in this repository.",
+  "files": [
+    {
+      "source": "src/network/mesh.rs",
+      "sha256": "a384e9901d4feae789682e304b96f17025e8f10e68e7d60bad7a0fa95d00138d"
+    },
+    {
+      "source": "src/network/vpn.rs",
+      "sha256": "1ebeae2f30bc2567392aa27d63d53acea0d103df4e1e0695e367ae9d4593f429"
+    }
+  ]
+}

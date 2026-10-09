@@ -1,0 +1,9 @@
+[package]
+name = "cyb-net"
+version = "0.1.0"
+edition = "2024"
+description = "cybnet component of the cybOS ecosystem"
+repository = "https://github.com/c1cad4/cybnet"
+publish = false
+
+[dependencies]
